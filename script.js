@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
         charCount.textContent = `Caracteres restantes: ${remaining}`;
     });
 
-    // Ejercicio 2: Galería Interactiva
+    // Ejercicio 2: Galería Interactiva..
     
     
     const thumbnails = document.querySelectorAll(".thumbnail");
